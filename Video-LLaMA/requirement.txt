@@ -15,3 +15,5 @@ transformers==4.28.0
 gradio==3.24.1
 pytorchvideo
 gradio-client==0.0.8
+
+flask
