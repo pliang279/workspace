@@ -162,3 +162,5 @@ cython_debug/
 **/*.ckpt
 **/*.mp4
 **/*.pth
+test3/data/
+test3/output/
